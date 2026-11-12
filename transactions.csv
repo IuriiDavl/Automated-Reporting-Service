@@ -1,0 +1,7 @@
+transaction_id,booked_date,amount,currency,status
+T001,2026-11-11,1000.00,RUB,settled
+T002,2026-11-11,20.00,USD,settled
+T002,2026-11-11,20.00,USD,settled
+T003,2026-11-11,5.00,EUR,settled
+T004,2026-11-11,99.00,USD,pending
+T005,2026-11-10,700.00,RUB,settled
