@@ -1,0 +1,16 @@
+[
+{
+    "date": "2026-11-11",
+    "rates": [
+        {"id": 1, "currency": "USD", "value": 92.5},
+        {"id": 2, "currency": "EUR", "value": 101.0}
+    ]
+},
+{
+    "date": "2026-11-10",
+    "rates": [
+        {"id": 1, "currency": "USD", "value": 93.0},
+        {"id": 2, "currency": "EUR", "value": 102.0}
+    ]
+}
+]
